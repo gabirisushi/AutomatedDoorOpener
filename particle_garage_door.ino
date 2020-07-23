@@ -1,8 +1,8 @@
 //
 // Automated Garage Door
 // Gabiruera.io
-// 01/04/2019
-// Version 1.0 - inspired by Harbert.io tutorial (11/02/2018)
+// ~~01/04/2019~~ 23/07/2020
+// Version 2.0
 //
 
 
